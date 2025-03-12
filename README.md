@@ -1,4 +1,4 @@
 # BDA Lab - Semester 6
 
 *USN*: 1BM22CS073
-*Name*: Brijesh S G
+*Name*: Brijesh S G 
